@@ -1,0 +1,46 @@
+/* src/App.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.card-container {
+  max-width: 400px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  border: 2px solid #ddd; /* Adiciona uma borda de 2px sólida com cor cinza */
+}
+
+h1 {
+  color: #333;
+}
+
+button {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-top: 10px; /* Adiciona um espaço superior ao botão */
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+p {
+  margin-top: 20px;
+  color: #555;
+}
