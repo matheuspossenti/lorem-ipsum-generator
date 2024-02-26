@@ -11,7 +11,7 @@ Execute npm install para instalar as dependências.
 ## Execução do serviço
 Após a instalação, você pode iniciar o serviço executando o seguinte comando:
 
-```
+```bash
 node app.js
 ```
 
@@ -24,7 +24,7 @@ Execute npm install para instalar as dependências.
 
 ## Execução do frontend
 
-```
+```bash
 npm start
 ```
 
