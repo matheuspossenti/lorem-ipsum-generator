@@ -11,9 +11,9 @@ Execute npm install para instalar as dependências.
 ## Execução do serviço
 Após a instalação, você pode iniciar o serviço executando o seguinte comando:
 
-´´bash
+```
 node app.js
-´´
+```
 
 O serviço estará disponível em http://localhost:3001 por padrão.
 
@@ -24,8 +24,8 @@ Execute npm install para instalar as dependências.
 
 ## Execução do frontend
 
-´´bash
+```
 npm start
-´´
+```
 
 O aplicativo será aberto automaticamente em seu navegador padrão.
