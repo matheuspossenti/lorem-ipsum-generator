@@ -1,7 +1,7 @@
 # Gerador de Lorem Ipsum
 
 ## Introdução
-Aplicação simples para gerar um lorem ipsum utilizando a Arquitetura em Camadas
+Aplicação simples para gerar um lorem ipsum utilizando a **Arquitetura em Camadas**
 
 ## Instalação do serviço
 Clone ou baixe este repositório.
